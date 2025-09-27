@@ -1,0 +1,6 @@
+{
+  "name": "Huawei SmartLogger",
+  "domain": "huawei_smartlogger",
+  "render_readme": true,
+  "country": ["de", "at", "ch"]
+}
